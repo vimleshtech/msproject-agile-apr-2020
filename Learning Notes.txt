@@ -1,0 +1,35 @@
+Learning Notes - Link
+=====================================
+http://techvisionit.com/blog/
+	 
+http://techvisionit.com/blog/agile-and-scrum-tutorial-designed-by-industrial-professional/business-relationship-management/
+
+
+Backlog			:
+User Story		:
+Priority		:
+Severity		:
+Sprint			:
+Story Point		:
+Task and SubTask	:
+Dashboard		:
+Report : 		:
+	Burnup		:
+	Burndown	:
+
+Notes: 
+	- Agile team size 3 to 9 
+	- Roles in Agile
+	  i.  Scrum Team 
+			Engineer(software developer, analyst)
+			Tester (QA,QE)
+	  ii. Scrum Master   = 	 BA (Business Analyst) 
+	  iii. Product Owner  = Business Owner 
+
+
+Metrices
+=================
+
+
+
+
